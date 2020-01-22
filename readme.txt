@@ -1,5 +1,5 @@
 
-Clasele au fost grupate in pachete, in functie de functionalitatea implementat in fiecare clasa(clasele cu functionalitate similara sau inrudite au fost grupate in acelasi pachet)
+Clasele au fost grupate in pachete, in functie de functionalitatea implementata in fiecare clasa(clasele cu functionalitate similara sau inrudite au fost grupate in acelasi pachet)
 
 S-a folosit si o clasa Utils care contine metode statice, care implementeaza functionalitati generale (cum ar fi calcularea frecventei fiecarui numar intr-un sir de numere sau diferite prelucrari de Liste si map-uri)
 
